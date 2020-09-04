@@ -3,3 +3,4 @@
 <h2> Glad to see you here </h2>
 <h2> Today is Tuesday </h2>
 <h2> this month is september </h2>
+<h2> Today is Friday </h2>
